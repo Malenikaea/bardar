@@ -1,0 +1,1 @@
+{* view chanunk in admin partnersItem.tpl*}
